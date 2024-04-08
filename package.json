@@ -1,0 +1,9 @@
+{
+  "name": "rpc-sample",
+  "version": "1.0.0",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.10.6",
+    "@grpc/proto-loader": "^0.7.12",
+    "google-protobuf": "^3.21.2"
+  }
+}
